@@ -1,2 +1,2 @@
 # SimpleCalculator
-A simple calculator in JS
+A simple calculator in JS using constructor class
